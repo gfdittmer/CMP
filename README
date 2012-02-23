@@ -1,0 +1,31 @@
+CodeZunk Music Player
+Version 0.1.0 (Alpha)
+Developed By Abhi
+
+=====================================================================
+OS: Windows Only
+Platform: Visual.NET (C#)
+=====================================================================
+
+How to use:
+
+1. Get .exe file from build directory
+2. Run the software & Open any Music file via File->Open/Add File
+3. File will be added to the playlist.
+4. Select File/Files to play
+5. Listen Music!
+
+
+======================================================================
+
+CopyRight:
+
+This Project is licensed under GNU GPL v2
+
+=======================================================================
+
+Notes:
+
+* This Software is in Alpha Stage, So there are chances of having bugs.
+* If any error occurs during testing this software, you'll need the dll files
+  from lib directory.
