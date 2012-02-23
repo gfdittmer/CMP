@@ -24,7 +24,7 @@ namespace mp3_player
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("CodeZunk Music Player" + "\nVersion 0.1.0 (Alpha)" + "\nDeveloped By Abhi", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("CodeZunk Music Player" + "\nVersion 0.2.0 (Alpha)" + "\nDeveloped By Abhi", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
